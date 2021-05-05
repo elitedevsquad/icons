@@ -1,7 +1,8 @@
 {
-    "name" : "devsquad/icons",
+    "name" : "aurelianosza/icons",
     "description"   : "Heroicons blade components to Laravel.",
     "keywords"  : ["laravel", "icons"],
+    "license": "MIT",
     "authors" :[
         {
             "name" : "Aureliano Neto",
@@ -21,7 +22,7 @@
     "extra" : {
         "laravel" : {
             "providers" : [
-                "Laravel\\Icons\\IconsServiceProvider"
+                "Icons\\IconsServiceProvider"
             ]
         }
     }
