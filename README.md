@@ -7,7 +7,7 @@ This library creates basic components blade icons based in [heroicons](https://h
 Access your laravel source and install following library.
 
 ```bash
-composer require aurelianosza/icons --dev
+composer require devsquad/icons --dev
 ```
 
 Now run artisan command to copy blade files to your components path.
